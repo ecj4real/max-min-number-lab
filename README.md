@@ -1,0 +1,2 @@
+# Max-Min Lab
+GitHub repo containing a real-world problem modeled using OOP while Write a function to find the maximum and minimum elements of an array. Your answer should be returned in an array containing the min and max number, respectively.
